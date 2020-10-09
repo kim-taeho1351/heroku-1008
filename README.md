@@ -1,4 +1,4 @@
-* Elastic Beanstalk
+* Heroku
 <br>
 
-![test image](screenshot/ebdeploy-test.PNG)
+![test image](screenshot/heroku-test.PNG)
